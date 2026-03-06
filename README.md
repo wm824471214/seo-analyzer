@@ -1,6 +1,6 @@
 # Seo Analyzer
 
-This repository contains practical scripts and examples related to Web Development & SEO Practices, designed to help you understand concepts through real use cases.
+Seo Analyzer is a small utility built around Web Development & SEO Practices, with a focus on solving real problems instead of chasing feature lists.
 
 ## Features
 
@@ -16,10 +16,10 @@ This repository contains practical scripts and examples related to Web Developme
 
 ## Documentation & Further Reading
 
-- 📚 Online documentation: [https://www.spiez.com/karte?d=851980464447/docs](https://www.spiez.com/karte?d=851980464447/docs)
-- 🔗 Related tools and practice notes: [https://www.spiez.com/karte?d=851980464447/tools](https://www.spiez.com/karte?d=851980464447/tools)
+- 📚 Online documentation: [https://www.e-ghid.ro/informatii/domeniul-schiabil-arieseni/?h=home/docs](https://www.e-ghid.ro/informatii/domeniul-schiabil-arieseni/?h=home/docs)
+- 🔗 Related tools and practice notes: [https://www.e-ghid.ro/informatii/domeniul-schiabil-arieseni/?h=home/tools](https://www.e-ghid.ro/informatii/domeniul-schiabil-arieseni/?h=home/tools)
 
-If you are interested in Web Development & SEO Practices, you can find more in‑depth write‑ups and examples here: [https://www.spiez.com/karte?d=851980464447](https://www.spiez.com/karte?d=851980464447)
+If you are interested in Web Development & SEO Practices, you can find more in‑depth write‑ups and examples here: [https://www.e-ghid.ro/informatii/domeniul-schiabil-arieseni/?h=home](https://www.e-ghid.ro/informatii/domeniul-schiabil-arieseni/?h=home)
 
 ## Contributing
 
